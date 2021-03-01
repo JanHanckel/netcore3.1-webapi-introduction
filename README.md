@@ -1,4 +1,4 @@
-# redux-intro
+# net core introduction
 A short talk about Redux.
 
 To get started, first install all dependencies:
