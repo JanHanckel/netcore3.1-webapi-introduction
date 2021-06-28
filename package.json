@@ -15,7 +15,7 @@
   "author": "Jan Hanckel",
   "license": "GPL-3.0",
   "dependencies": {
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.24.0",
     "reveal-md": "^3.4.2",
     "reveal.js-menu": "^1.0.0",
     "reveal.js-toolbar": "^0.1.4"
